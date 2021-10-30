@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collection/ClassesDemo.iml" filepath="$PROJECT_DIR$/Collection/ClassesDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassesDemo1/ClassesDemo1.iml" filepath="$PROJECT_DIR$/ClassesDemo1/ClassesDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pragraTraining2021Sep.iml" filepath="$PROJECT_DIR$/.idea/pragraTraining2021Sep.iml" />
+    </modules>
+  </component>
+</project>
