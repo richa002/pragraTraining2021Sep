@@ -12,6 +12,8 @@
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
+
+
     <build>
         <plugins>
             <plugin>
@@ -23,7 +25,7 @@
                             <addClasspath>true</addClasspath>
                             <mainClass>
                                 <!--Replace with the class that contains the main function-->
-                                Demo
+                                Main
                             </mainClass>
                         </manifest>
                     </archive>
